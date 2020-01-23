@@ -1,8 +1,5 @@
 # windows-help
 
-https://github.com/thiagoalmeidadon
-
-
 
 Funcionalidade	Run Command / Comando Executar
 Adicionar novo hardware	hdwwiz.cpl
